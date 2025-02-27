@@ -1,0 +1,59 @@
+.sidebar {
+    background-color: #00338D;
+    padding: 15px;
+    color: white;
+}
+
+.main-content {
+    padding: 15px;
+}
+
+.card {
+    margin-bottom: 15px;
+}
+
+.header-title {
+    color: #00338D;
+}
+
+.dataTables_wrapper {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.card-title {
+    color: #00338D;
+}
+
+.card-text {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.triangle-table .dataTables_wrapper {
+    margin: 0;
+}
+
+/* Estilo para las pestañas */
+.tab {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+/* Estilo para los botones */
+.btn-primary {
+    background-color: #00338D;
+    border-color: #00338D;
+}
+
+.btn-primary:hover {
+    background-color: #002266;
+    border-color: #002266;
+}
+
+/* Estilos para los gráficos */
+.chart-container {
+    width: 100%;
+    height: 400px;
+}
